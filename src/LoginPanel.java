@@ -52,10 +52,6 @@ public class LoginPanel extends AImagePanel {
         return this;
     }
     void addLoginbuttonAction(){
-        HashMap<String ,String>nameAndPassword=new HashMap<>();
-        nameAndPassword.put("abiyaddis","12345");
-        nameAndPassword.put("User42069","getAlife");
-        nameAndPassword.put("admin","admin");
         loginbutton.label.addMouseListener(new MouseAdapter() {
 
             @Override
