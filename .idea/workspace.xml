@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7a20a32b-b463-43f9-87b2-901ae7a8f762" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/StudentManagment.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/mysql_connector_j_8_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudentManagment.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ACheckBox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AImageLabel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AImagePanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/APasswordTextBox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AStringButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ATab.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ATextBox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ControlPanels.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LoginPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SignUpPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TopPanel.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2UTEcyDCAJeLvarl2WQ1mfU2klD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/dag/IdeaProjects/StudentManagment&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
+    ]
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7a20a32b-b463-43f9-87b2-901ae7a8f762" name="Changes" comment="" />
+      <created>1692955253804</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1692955253804</updated>
+      <workItem from="1692955255460" duration="58000" />
+      <workItem from="1692955323854" duration="156000" />
+      <workItem from="1692955949491" duration="611000" />
+      <workItem from="1692962330398" duration="36000" />
+      <workItem from="1692962519817" duration="27000" />
+      <workItem from="1692969314655" duration="557000" />
+      <workItem from="1692969885851" duration="1966000" />
+      <workItem from="1692975810443" duration="367000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
