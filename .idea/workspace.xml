@@ -4,29 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7a20a32b-b463-43f9-87b2-901ae7a8f762" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/StudentManagment.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/mysql_connector_j_8_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudentManagment.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AButton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ACheckBox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AFrame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AImageLabel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AImagePanel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/APasswordTextBox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AStringButton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ATab.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ATextBox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ControlPanels.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LoginPanel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SignUpPanel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TopPanel.java" afterDir="false" />
+    <list default="true" id="7a20a32b-b463-43f9-87b2-901ae7a8f762" name="Changes" comment="Adding everything">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,11 +58,23 @@
       <workItem from="1692962519817" duration="27000" />
       <workItem from="1692969314655" duration="557000" />
       <workItem from="1692969885851" duration="1966000" />
-      <workItem from="1692975810443" duration="367000" />
+      <workItem from="1692975810443" duration="1858000" />
     </task>
+    <task id="LOCAL-00001" summary="Adding everything">
+      <created>1692976321445</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1692976321445</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Adding everything" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding everything" />
   </component>
 </project>
