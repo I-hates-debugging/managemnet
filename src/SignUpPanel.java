@@ -22,6 +22,7 @@ public class SignUpPanel extends AImagePanel {
         super(file);
         setVisible(false);
         addToPanel();
+        addLoginButtonAction();
         addSignUpButtonAction();
         mainPanel.setBorder(new EmptyBorder(0, 28, 0, 28));
 
@@ -40,6 +41,14 @@ public class SignUpPanel extends AImagePanel {
         addMain(loginButton);
     }
 
+    void addLoginButtonAction(){
+        loginButton.addMouseListener(new MouseAdapter() {
+            @Override
+            public void mouseClicked(MouseEvent e) {
+                ControlPanels.showLogin();
+            }
+        });
+    }
     void addSignUpButtonAction() {
         signUpButton.label.addMouseListener(new MouseAdapter() {
             @Override
@@ -48,6 +57,7 @@ public class SignUpPanel extends AImagePanel {
             }
         });
     }
+
 
     private void registerUser() {
         String username = usernameBox.textLabel.getText();

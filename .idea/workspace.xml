@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7a20a32b-b463-43f9-87b2-901ae7a8f762" name="Changes" comment="removed somestuff lol">
-      <change afterPath="$PROJECT_DIR$/src/DatabaseConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/f02df7cc-a579-4458-a1d6-97d9dab60a27.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/f02df7cc-a579-4458-a1d6-97d9dab60a27.xml" afterDir="false" />
+    <list default="true" id="7a20a32b-b463-43f9-87b2-901ae7a8f762" name="Changes" comment="backend for signup">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LoginPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LoginPanel.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/SignUpPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SignUpPanel.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -85,7 +82,7 @@
       <workItem from="1692969885851" duration="1966000" />
       <workItem from="1692975810443" duration="6675000" />
       <workItem from="1692982974883" duration="2423000" />
-      <workItem from="1693037642275" duration="4962000" />
+      <workItem from="1693037642275" duration="5711000" />
     </task>
     <task id="LOCAL-00001" summary="Adding everything">
       <created>1692976321445</created>
@@ -122,7 +119,14 @@
       <option name="project" value="LOCAL" />
       <updated>1692979848464</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="backend for signup">
+      <created>1693042777909</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1693042777909</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -131,7 +135,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Adding everything" />
     <MESSAGE value="removed somestuff lol" />
-    <option name="LAST_COMMIT_MESSAGE" value="removed somestuff lol" />
+    <MESSAGE value="backend for signup" />
+    <option name="LAST_COMMIT_MESSAGE" value="backend for signup" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
