@@ -1,3 +1,5 @@
+package src;
+
 import src.DatabaseConfig;
 
 import javax.swing.*;
@@ -87,7 +89,7 @@ public class LoginPanel extends AImagePanel {
                 String pass = resultSet.getString("password");
 
                 if (pass.equals(password)){
-                    ControlPanels.showTop();
+                    ControlPanels.showHome();
                 }
                 else{
                     JOptionPane.showMessageDialog(null, "username and password do not match", "login error", JOptionPane.ERROR_MESSAGE);

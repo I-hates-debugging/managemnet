@@ -4,9 +4,52 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7a20a32b-b463-43f9-87b2-901ae7a8f762" name="Changes" comment="backend for signup">
+    <list default="true" id="7a20a32b-b463-43f9-87b2-901ae7a8f762" name="Changes" comment="removed somestuff lol">
+      <change afterPath="$PROJECT_DIR$/src/HomePanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/f02df7cc-a579-4458-a1d6-97d9dab60a27.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/art/mainPage/animate/addButton/1/hover.png" beforeDir="false" afterPath="$PROJECT_DIR$/art/homePage/animate/addButton/1/hover.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/art/mainPage/animate/addButton/1/normal.png" beforeDir="false" afterPath="$PROJECT_DIR$/art/homePage/animate/addButton/1/normal.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/art/mainPage/animate/addButton/1/press.png" beforeDir="false" afterPath="$PROJECT_DIR$/art/homePage/animate/addButton/1/press.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/art/mainPage/animate/addButton/2/hover2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/art/mainPage/animate/addButton/2/normal2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/art/mainPage/animate/addButton/2/press2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/art/mainPage/animate/addButton/3/hover3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/art/mainPage/animate/addButton/3/normal3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/art/mainPage/animate/addButton/3/press3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/art/mainPage/animate/schoolYear/1/1Hover.png" beforeDir="false" afterPath="$PROJECT_DIR$/art/homePage/animate/schoolYear/1/1Hover.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/art/mainPage/animate/schoolYear/1/1Normal.png" beforeDir="false" afterPath="$PROJECT_DIR$/art/homePage/animate/schoolYear/1/1Normal.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/art/mainPage/animate/schoolYear/1/1Press.png" beforeDir="false" afterPath="$PROJECT_DIR$/art/homePage/animate/schoolYear/1/1Press.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/art/mainPage/animate/schoolYear/2/2Hover.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/art/mainPage/animate/schoolYear/2/2Normal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/art/mainPage/animate/schoolYear/2/2Press.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/art/mainPage/animate/startButton/hover.png" beforeDir="false" afterPath="$PROJECT_DIR$/art/homePage/animate/startButton/hover.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/art/mainPage/animate/startButton/normal.png" beforeDir="false" afterPath="$PROJECT_DIR$/art/homePage/animate/startButton/normal.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/art/mainPage/animate/startButton/press.png" beforeDir="false" afterPath="$PROJECT_DIR$/art/homePage/animate/startButton/press.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/art/mainPage/static/aboutUs/aboutUs.png" beforeDir="false" afterPath="$PROJECT_DIR$/art/homePage/static/aboutUs/aboutUs.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/art/mainPage/static/aboutUs/backround.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/art/mainPage/static/aboutUs/image.png" beforeDir="false" afterPath="$PROJECT_DIR$/art/homePage/static/aboutUs/image.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/art/mainPage/static/background/background1.png" beforeDir="false" afterPath="$PROJECT_DIR$/art/homePage/static/background/background1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/art/mainPage/static/stats/background3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/art/mainPage/static/stats/totalStaff.png" beforeDir="false" afterPath="$PROJECT_DIR$/art/homePage/static/stats/totalStaff.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/art/mainPage/static/stats/totalStudent.png" beforeDir="false" afterPath="$PROJECT_DIR$/art/homePage/static/stats/totalStudent.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/art/mainPage/static/stats/totalTeacher.png" beforeDir="false" afterPath="$PROJECT_DIR$/art/homePage/static/stats/totalTeacher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/art/mainPage/static/year/background4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AButton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AButton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ACheckBox.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ACheckBox.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AImageLabel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AImageLabel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AImagePanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AImagePanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/APasswordTextBox.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/APasswordTextBox.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AStringButton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AStringButton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ATab.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ATab.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ATextBox.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ATextBox.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ControlPanels.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ControlPanels.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LoginPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LoginPanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/SignUpPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SignUpPanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TopPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TopPanel.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,28 +59,32 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="UPDATE_TYPE" value="REBASE" />
-  </component>
-  <component name="GitHubPullRequestSearchHistory">{
-  &quot;lastFilter&quot;: {
-    &quot;state&quot;: &quot;OPEN&quot;
-  }
-}</component>
-  <component name="GithubPullRequestsUISettings">
-    <option name="selectedUrlAndAccountId">
-      <UrlAndAccount>
-        <option name="accountId" value="c74f9e0d-a59f-4195-8ef3-16332080a249" />
-        <option name="url" value="https://github.com/I-hates-debugging/managemnet.git" />
-      </UrlAndAccount>
+  <component name="Git.Pull.Settings">
+    <option name="OPTIONS">
+      <set>
+        <option value="SQUASH" />
+      </set>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2UTEcyDCAJeLvarl2WQ1mfU2klD" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -80,9 +127,12 @@
       <workItem from="1692962519817" duration="27000" />
       <workItem from="1692969314655" duration="557000" />
       <workItem from="1692969885851" duration="1966000" />
-      <workItem from="1692975810443" duration="6675000" />
-      <workItem from="1692982974883" duration="2423000" />
-      <workItem from="1693037642275" duration="5711000" />
+      <workItem from="1692975810443" duration="3399000" />
+      <workItem from="1693055909168" duration="34000" />
+      <workItem from="1693055951252" duration="18000" />
+      <workItem from="1693055977264" duration="167000" />
+      <workItem from="1693056165841" duration="70000" />
+      <workItem from="1693056248762" duration="357000" />
     </task>
     <task id="LOCAL-00001" summary="Adding everything">
       <created>1692976321445</created>
@@ -112,40 +162,26 @@
       <option name="project" value="LOCAL" />
       <updated>1692978862149</updated>
     </task>
-    <task id="LOCAL-00005" summary="removed somestuff lol">
-      <created>1692979848464</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1692979848464</updated>
-    </task>
-    <task id="LOCAL-00006" summary="backend for signup">
-      <created>1693042777909</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1693042777909</updated>
-    </task>
-    <option name="localTasksCounter" value="7" />
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Adding everything" />
     <MESSAGE value="removed somestuff lol" />
-    <MESSAGE value="backend for signup" />
-    <option name="LAST_COMMIT_MESSAGE" value="backend for signup" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <breakpoint enabled="true" type="java-exception">
-          <properties class="java.sql.SQLException" package="java.sql" />
-          <option name="timeStamp" value="3" />
-        </breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <option name="LAST_COMMIT_MESSAGE" value="removed somestuff lol" />
   </component>
 </project>
