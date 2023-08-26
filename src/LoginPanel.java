@@ -1,3 +1,5 @@
+import src.DatabaseConfig;
+
 import javax.swing.*;
 import javax.swing.border.EmptyBorder;
 import java.awt.*;
@@ -74,13 +76,11 @@ public class LoginPanel extends AImagePanel {
         String password=passwordBox.textLabel.getText();
         try{
             //load the mysql JDBC driver
-            Connection connection = DriverManager.getConnection("jdbc:mysql://localhost:3306/school_management", "root", "password");
+            Connection connection = DriverManager.getConnection(DatabaseConfig.jdbcUrl, DatabaseConfig.username, DatabaseConfig.password);
 
             String query = "SELECT password FROM user_login WHERE username = ?";
             PreparedStatement preparedStatement = connection.prepareStatement(query);
             preparedStatement.setString(1, username);
-
-
             ResultSet resultSet = preparedStatement.executeQuery();
 
             if (resultSet.next()){

@@ -5,15 +5,40 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7a20a32b-b463-43f9-87b2-901ae7a8f762" name="Changes" comment="removed somestuff lol">
+      <change afterPath="$PROJECT_DIR$/src/DatabaseConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/f02df7cc-a579-4458-a1d6-97d9dab60a27.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/f02df7cc-a579-4458-a1d6-97d9dab60a27.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LoginPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LoginPanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SignUpPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SignUpPanel.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="c74f9e0d-a59f-4195-8ef3-16332080a249" />
+        <option name="url" value="https://github.com/I-hates-debugging/managemnet.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="ProjectId" id="2UTEcyDCAJeLvarl2WQ1mfU2klD" />
   <component name="ProjectViewState">
@@ -58,7 +83,9 @@
       <workItem from="1692962519817" duration="27000" />
       <workItem from="1692969314655" duration="557000" />
       <workItem from="1692969885851" duration="1966000" />
-      <workItem from="1692975810443" duration="3399000" />
+      <workItem from="1692975810443" duration="6675000" />
+      <workItem from="1692982974883" duration="2423000" />
+      <workItem from="1693037642275" duration="4962000" />
     </task>
     <task id="LOCAL-00001" summary="Adding everything">
       <created>1692976321445</created>
@@ -88,7 +115,14 @@
       <option name="project" value="LOCAL" />
       <updated>1692978862149</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="removed somestuff lol">
+      <created>1692979848464</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1692979848464</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -98,5 +132,15 @@
     <MESSAGE value="Adding everything" />
     <MESSAGE value="removed somestuff lol" />
     <option name="LAST_COMMIT_MESSAGE" value="removed somestuff lol" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.sql.SQLException" package="java.sql" />
+          <option name="timeStamp" value="3" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

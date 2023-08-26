@@ -1265,19 +1265,17 @@ sys|schema||mysql.sys|localhost|TRIGGER|G</Grants>
       <UnderlyingIndexName>PRIMARY</UnderlyingIndexName>
     </key>
     <column id="353" parent="309" name="ID">
-      <AutoIncrement>2</AutoIncrement>
+      <AutoIncrement>1</AutoIncrement>
       <DasType>int|0s</DasType>
       <NotNull>1</NotNull>
       <Position>1</Position>
     </column>
     <column id="354" parent="309" name="username">
-      <DasType>varchar(255)|0s</DasType>
-      <NotNull>1</NotNull>
+      <DasType>varchar(100)|0s</DasType>
       <Position>2</Position>
     </column>
     <column id="355" parent="309" name="password">
-      <DasType>varchar(255)|0s</DasType>
-      <NotNull>1</NotNull>
+      <DasType>varchar(100)|0s</DasType>
       <Position>3</Position>
     </column>
     <index id="356" parent="309" name="PRIMARY">
